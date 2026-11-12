@@ -1,1 +1,2 @@
 My CampusNotes project
+Notes are organized for easy access.
